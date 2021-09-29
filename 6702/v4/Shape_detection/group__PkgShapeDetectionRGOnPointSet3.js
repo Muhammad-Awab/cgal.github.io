@@ -1,0 +1,27 @@
+var group__PkgShapeDetectionRGOnPointSet3 =
+[
+    [ "K_neighbor_query_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga2b48bc9aeb7b6413813dde2e245d052c", null ],
+    [ "Least_squares_circle_fit_region_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#gafa9c8cff6daec11f0cc566eea224b0cb", null ],
+    [ "Least_squares_circle_fit_sorting_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#gafae4edae3495cf66916896ef85edcca7", null ],
+    [ "Least_squares_cylinder_fit_region_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#gafedf1b817adb77fbcb5f84e9e3e79d0b", null ],
+    [ "Least_squares_cylinder_fit_sorting_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#gaacf4c0b6f6e931b61e305c1a79cb06ff", null ],
+    [ "Least_squares_line_fit_region_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga15880cd6f6afef2d3138d5c5c206151d", null ],
+    [ "Least_squares_line_fit_sorting_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga137c6e7c3f30f0e78a5fe18063431bd6", null ],
+    [ "Least_squares_plane_fit_region_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga16300a0ce273a2abc4f32848bd176aed", null ],
+    [ "Least_squares_plane_fit_sorting_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga516212258dd2ae3b97a3f664692e50db", null ],
+    [ "Least_squares_sphere_fit_region_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga529d9fbf05f76ca10b41a0f69d411695", null ],
+    [ "Least_squares_sphere_fit_sorting_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga93ea9c0b182180f349e1fb1dab08ac23", null ],
+    [ "Sphere_neighbor_query_for_point_set", "group__PkgShapeDetectionRGOnPointSet3.html#ga755000675a1a44e35ea3a5731a4f0e02", null ],
+    [ "make_k_neighbor_query", "group__PkgShapeDetectionRGOnPointSet3.html#ga69e72252664019aaff2c8cb34aa61523", null ],
+    [ "make_least_squares_circle_fit_region", "group__PkgShapeDetectionRGOnPointSet3.html#gaa0183ac497b4c9046e7269e126e0f1c8", null ],
+    [ "make_least_squares_circle_fit_sorting", "group__PkgShapeDetectionRGOnPointSet3.html#gaebb744952c05c85d17552fdd8b0cd6b2", null ],
+    [ "make_least_squares_cylinder_fit_region", "group__PkgShapeDetectionRGOnPointSet3.html#gad2f829dbb41d2600cf2f9bc0c99918bb", null ],
+    [ "make_least_squares_cylinder_fit_sorting", "group__PkgShapeDetectionRGOnPointSet3.html#gaade187e91bef4aec04b3822601a69f56", null ],
+    [ "make_least_squares_line_fit_region", "group__PkgShapeDetectionRGOnPointSet3.html#gab77faad96d3c6b1afff98b88122a03b5", null ],
+    [ "make_least_squares_line_fit_sorting", "group__PkgShapeDetectionRGOnPointSet3.html#gaf22b6c16611c9307c899f489cc4f467d", null ],
+    [ "make_least_squares_plane_fit_region", "group__PkgShapeDetectionRGOnPointSet3.html#ga4f6e68910acec1039615a407bbf70bfd", null ],
+    [ "make_least_squares_plane_fit_sorting", "group__PkgShapeDetectionRGOnPointSet3.html#ga86542117dc82bb1cc71f6f059f703369", null ],
+    [ "make_least_squares_sphere_fit_region", "group__PkgShapeDetectionRGOnPointSet3.html#gaf0ef4a4c86c33f91bf83b6a981bac35e", null ],
+    [ "make_least_squares_sphere_fit_sorting", "group__PkgShapeDetectionRGOnPointSet3.html#ga29259ea7a33c5f7b3b71b00c1a373f00", null ],
+    [ "make_sphere_neighbor_query", "group__PkgShapeDetectionRGOnPointSet3.html#ga0a96b3b0c99171a0c52f9dfaf62b5a83", null ]
+];
